@@ -1,0 +1,155 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.parallax1{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/53ac5f13e4b0c4e738760606/1637874785554-0U0QA2FXTE09WZ01ROWM/GTHomepageweb.jpg?format=2500w);
+      /* Set a specific height */
+    min-height: 620px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+.parallax2{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/53ac5f13e4b0c4e738760606/1664286292443-04Y5EF29584RD0UXK87W/parisbanner3k.jpg?format=2500w);
+     /* Set a specific height */
+     min-height: 620px; 
+
+     /* Create the parallax scrolling effect */
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.parallax3{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/53ac5f13e4b0c4e738760606/1647022275793-HR66D4W9LNFHVF47Q5B7/0D2A37443K.jpg?format=2500w);
+     /* Set a specific height */
+     min-height: 620px; 
+
+     /* Create the parallax scrolling effect */
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.parallax4{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/53ac5f13e4b0c4e738760606/1639750205326-OEV653PYJZ7FQG136AE4/PPL-background166.jpg?format=2500w);
+     /* Set a specific height */
+     min-height: 620px; 
+
+     /* Create the parallax scrolling effect */
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.parallax1 h1{
+    color: white;
+    position: absolute;
+    top: 135%;
+    font-weight: 100;
+    left: 7%;
+    font-family: "Raleway", sans-serif;
+    font-size: 50px;
+}
+.parallax1 a{
+    /* text-decoration: none; */
+    color: orange;
+    position: absolute;
+    top: 145%;
+    left: 7%;
+}
+.parallax1 h6{
+    font-size: 18px;
+}
+.parallax2 h1{
+    color: white;
+    position: absolute;
+    top: 200%;
+    font-weight: 100;
+    left: 7%;
+    font-family: "Raleway", sans-serif;
+    font-size: 50px;
+}
+.parallax2 a{
+    /* text-decoration: none; */
+    color: orange;
+    position: absolute;
+    top: 218%;
+    left: 7%;
+}
+.parallax2 h6{
+    font-size: 18px;
+}
+.parallax3 h1{
+    color: white;
+    position: absolute;
+    top: 279%;
+    font-weight: 100;
+    left: 7%;
+    font-family: "Raleway", sans-serif;
+    font-size: 50px;
+}
+.parallax3 a{
+    /* text-decoration: none; */
+    color: orange;
+    position: absolute;
+    top: 289%;
+    left: 7%;
+}
+.parallax3 h6{
+    font-size: 18px;
+}
+.parallax4 h1{
+    color: white;
+    position: absolute;
+    top: 360%;
+    font-weight: 700;
+    left: 35%;
+    font-family: "Raleway", sans-serif;
+    font-size: 50px;
+}
+.parallax4 a{
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    top: 370%;
+    left: 42%;
+    border: 1px solid ;
+    background-color: rgb(246, 179, 54);
+    text-align: center;
+    padding: 20px;
+}
+.parallax4 h6{
+    font-size: 16px;
+}
+.parallax4 a:hover{
+    background-color: rgb(193, 127, 5);
+}
+.footer label h5{
+    font-weight: 100;
+    color: black;
+    border: 2px solid black;
+    padding: 20px;
+    width: 100px;
+}
+.footer label h5:hover{
+    color: white;
+    background-color: black;
+}
+.footer .icons{
+    padding: 20px;
+}
+.footer .icons a i{
+    padding: 5px;
+    font-size: larger;
+    color: black;
+}
+.footer .icons a i:hover{
+    color: grey;
+}
